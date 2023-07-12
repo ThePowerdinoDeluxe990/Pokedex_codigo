@@ -1,0 +1,15 @@
+.title{
+    display:flex;
+    position:sticky;
+    background-color:black;
+    top: 0;
+    opacity:0.8;
+
+
+}
+.header{
+    color:white;
+    padding:10px;
+    font-weight: bold;
+    font-family:"Noto Sans";
+}
